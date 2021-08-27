@@ -15,6 +15,7 @@ Skills: HTML/CSS/JavaScript/PHP/MySQL/Bootstrap/WordPress/Laravel/ReactJS
 - 📫 How to reach me: faruqhossen30@gmail.com 
 - ⚡ Fun fact: Programmer can't live without coding... 
 
+![GitHub metrics](https://metrics.lecoq.io/faruqhossen30)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faruqhossen30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faruqhossen30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/faruq.hossen11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/faruqhossen30/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/faruqhossen30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/faruqhossen30)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](faruqhossen.com)  
 
@@ -27,8 +28,6 @@ Skills: HTML/CSS/JavaScript/PHP/MySQL/Bootstrap/WordPress/Laravel/ReactJS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faruqhossen30&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faruqhossen30)  
-
-![GitHub metrics](https://metrics.lecoq.io/faruqhossen30)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faruqhossen30)  
 
